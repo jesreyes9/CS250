@@ -1,1 +1,8 @@
-# CS250
+# CS-250: Software Development Lifecycle
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+User needs can be interpreted through asking following up questions to their requested features of the application. It will help to clarify any details necessary to create a user story and the acceptance criteria. By utilizing these small details from the requested feature, it will aid when completing and creating a user story as you will have the necessary information to comprehend what is needed to be implemented and the expected behavior to result of such a feature implementation.
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+When developing programs, it is pivotal to understand what is needed to be created as well as by what technologies to use and how to use them as well. In addition, having a design of the intended implemented feature can also be a great way to begin the implementation phase. The agile processes I hope to incorporate into my future development work are the scrum-agile approaches such as kanban due to the nature of the scrum framework, it seems like a really simple way to keep track of user stories as well as their statuses.
+# What does it mean to be a good team member in software development?
+Being a good team member in a software development does not only mean attending all daily scrum calls but also lending a helping hand to others if they are struggling rather than working on a individual level. It also means that you are actively sharing knwoledge to others on issues you have had prior when trying to implement a user story.
